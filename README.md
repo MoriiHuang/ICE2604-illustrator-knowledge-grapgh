@@ -20,7 +20,7 @@
 ## About
 This project is the final course project for ICE2604 (电类工程导论). For more detailed information on how did we work out the project, please refer to the report `Final report/Final report.md`.
 ## Team Member
-- Team leader: 黄浩栩
+- Team leader: 黄川懿
 - Data and crawler: 黄川懿，薛家奇，黄浩栩
 - Search engine: 黄浩栩
 - Visualization: 王鹏飞，向天乐，薛家奇
